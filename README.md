@@ -12,6 +12,7 @@ Official logos for the **go-filesystems** organization.
 - **ICO** (Windows) — `ico/`
 - **ICNS** (macOS) — `icns/`
 - **GitHub avatar** 512 px — `avatar/`
+- **Social preview** 1280×640 (repo banner) — `social/`
 
 ## Repos (35)
 
