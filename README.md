@@ -14,7 +14,7 @@ Official logos for the **go-filesystems** organization.
 - **GitHub avatar** 512 px — `avatar/`
 - **Social preview** 1280×640 (repo banner) — `social/`
 
-## Repos (35)
+## Repos (36)
 
 | | repo |
 |---|---|
@@ -47,6 +47,7 @@ Official logos for the **go-filesystems** organization.
 | <img src="avatar/go-filesystems-squashfs.png" width="48"> | `squashfs` |
 | <img src="avatar/go-filesystems-ubifs.png" width="48"> | `ubifs` |
 | <img src="avatar/go-filesystems-udf.png" width="48"> | `udf` |
+| <img src="avatar/go-filesystems-uefi.png" width="48"> | `uefi` |
 | <img src="avatar/go-filesystems-ufs.png" width="48"> | `ufs` |
 | <img src="avatar/go-filesystems-ufs2.png" width="48"> | `ufs2` |
 | <img src="avatar/go-filesystems-vfat.png" width="48"> | `vfat` |
