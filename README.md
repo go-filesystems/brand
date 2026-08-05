@@ -14,9 +14,15 @@ Official logos for the **go-filesystems** organization.
 - **GitHub avatar** 512 px — `avatar/`
 - **Social preview** 1280×640 (repo banner) — `social/`
 
-## Repos (36)
+## Filesystem-type icons (36)
 
-| | repo |
+Pre-generated per-format logo assets, not a literal repo count — the
+`go-filesystems` org currently ships drivers for 14 of the 36 filesystem
+types below (see [the org profile](https://github.com/go-filesystems) for
+the actual repo list); the rest are pre-generated for formats a future
+driver may cover.
+
+| | filesystem type |
 |---|---|
 | <img src="avatar/go-filesystems-9p.png" width="48"> | `9p` |
 | <img src="avatar/go-filesystems-afs.png" width="48"> | `afs` |
